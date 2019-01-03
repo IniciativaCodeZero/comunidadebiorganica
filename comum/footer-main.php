@@ -1,56 +1,44 @@
 <footer class="page-footer font-small green pt-4">
     <div class="container-fluid text-center text-md-left">
       <div class="row">
-        <div class="col-md-6 mt-md-0 mt-3">
-          <h5 class="text-uppercase">Links</h5>
+        <div class="col-md-4 mt-md-0 mt-4">
+          <h5 class="text-uppercase">Guia</h5>
           <ul class="list-unstyled">
             <li>
-              <a href="#!">Link 1</a>
+              <a href="#!">Onde ficar</a>
             </li>
             <li>
-              <a href="#!">Link 2</a>
+              <a href="#!">Onde comer</a>
             </li>
             <li>
-              <a href="#!">Link 3</a>
+              <a href="#!">Direto da Roça</a>
             </li>
             <li>
-              <a href="#!">Link 4</a>
+              <a href="#!">Estive Lá</a>
             </li>
           </ul>
         </div>
         
-        <div class="col-md-3 mb-md-0 mb-3">
-          <h5 class="text-uppercase">Links</h5>
+        <div class="col-md-4 mb-md-0 mb-4">
+          <h5 class="text-uppercase">Eventos</h5>
           <ul class="list-unstyled">
             <li>
-              <a href="#!">Link 1</a>
+              <a href="#!">Calendário</a>
             </li>
             <li>
-              <a href="#!">Link 2</a>
-            </li>
-            <li>
-              <a href="#!">Link 3</a>
-            </li>
-            <li>
-              <a href="#!">Link 4</a>
+              <a href="#!">Atrações</a>
             </li>
           </ul>
         </div>
 
-        <div class="col-md-3 mb-md-0 mb-3">
-          <h5 class="text-uppercase">Links</h5>
+        <div class="col-md-4 mb-md-0 mb-4">
+          <h5 class="text-uppercase">Nossa História</h5>
           <ul class="list-unstyled">
             <li>
-              <a href="#!">Link 1</a>
+              <a href="#!">Meio Ambiente</a>
             </li>
             <li>
-              <a href="#!">Link 2</a>
-            </li>
-            <li>
-              <a href="#!">Link 3</a>
-            </li>
-            <li>
-              <a href="#!">Link 4</a>
+              <a href="#!">Quem Somos</a>
             </li>
           </ul>
         </div>
