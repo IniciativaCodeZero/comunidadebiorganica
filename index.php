@@ -4,9 +4,12 @@
   <title>Comunidade Biorganica</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
-  <script src="jquery/jquery-3.3.1.min.js"></script>
-  <script src="bootstrap/js/bootstrap.min.js"></script>
+  <!-- jQuery lib -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <!--bootstrap-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <!--website css-->
   <link rel="stylesheet" href="style/website.css" />
 </head>
 <body>
@@ -23,7 +26,7 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="https://placehold.it/1200x400?text=IMAGE" alt="Image">
+        <img src="https://placehold.it/1200x400?text=Cursos" alt="Image">
         <div class="carousel-caption">
           <h3>Conheça nossos cursos</h3>
           <p>Saiba mais</p>
@@ -31,7 +34,7 @@
       </div>
 
       <div class="item">
-        <img src="https://placehold.it/1200x400?text=Another Image Maybe" alt="Image">
+        <img src="https://placehold.it/1200x400?text=Projetos" alt="Image">
         <div class="carousel-caption">
           <h3>Conheça nossos projetos</h3>
           <p>Saiba mais</p>
@@ -42,11 +45,11 @@
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
+      <span class="sr-only">Anterior</span>
     </a>
     <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
       <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
+      <span class="sr-only">Próximo</span>
     </a>
 </div>
 
@@ -72,9 +75,7 @@
   </div>
 </div><br>
 
-<footer class="container-fluid text-center">
-  <p>Footer Text</p>
-</footer>
+<?php include "comum/footer-main.php"; ?>
 
 </body>
 </html>
