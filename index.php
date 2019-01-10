@@ -62,7 +62,7 @@
     </a>
 </div>
 
-<div class="container text-center">
+<div class="container-fluid text-center">
   <h3>Nossos Projetos</h3><br>
   <div class="row">
     <div class="col-sm-4">
@@ -80,7 +80,7 @@
   </div>
 </div>
 
-<div class="container text-center">
+<div class="container-fluid text-center">
   <h3>Cursos</h3><br>
   <div class="row">
     <div class="col-sm-4">
@@ -98,7 +98,7 @@
   </div>
 </div>
 
-<div class="container text-center">
+<div class="container-fluid text-center">
   <h3>Práticas</h3><br>
   <div class="row">
     <div class="col-sm-4">

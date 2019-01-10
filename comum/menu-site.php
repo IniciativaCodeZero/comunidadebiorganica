@@ -19,7 +19,7 @@
         <li><a href="#">Contato</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="admin/index.php"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+        <li><a href="admin/index.php"><span class="glyphicon glyphicon-log-in"></span> Acesso Restrito</a></li>
       </ul>
     </div>
   </div>
